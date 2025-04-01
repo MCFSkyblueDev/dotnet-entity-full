@@ -1,0 +1,15 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Api.Extensions
+{
+    public static class SecurityExtensions
+    {
+        public static IServiceCollection AddSecurities(this IServiceCollection services)
+        {
+            return services;
+        }
+    }
+}
