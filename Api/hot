@@ -1,0 +1,5 @@
+dotnet watch 🔥 Hot reload enabled. For a list of supported edits, see https://aka.ms/dotnet/hot-reload.
+  💡 Press "Ctrl + R" to restart.
+dotnet watch ⌚ Building D:\APS.NET\Structure\Api\Api.csproj ...
+dotnet watch 🛑 Shutdown requested. Press Ctrl+C again to force exit.
+dotnet watch 🔨 Build failed: D:\APS.NET\Structure\Api\Api.csproj
